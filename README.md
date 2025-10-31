@@ -72,10 +72,11 @@ Dự án được chia thành các module theo vai trò người dùng:
 Mở tệp `src/main/java/database/JDBCUtil.java`  
 Cập nhật thông tin trong phương thức `getConnection()`:
 
-java
+```java
 String url = "jdbc:sqlserver://[SERVER_CUA_BAN]:1433;databaseName=school_giftshop;encrypt=true;trustServerCertificate=true;";
 String user = "sa";
 String password = "123456789";
+```
 ## 🗂️ 3. Cấu trúc thư mục dự án
 school-giftshop/
 │
