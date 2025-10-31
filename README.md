@@ -78,6 +78,7 @@ String user = "sa";
 String password = "123456789";
 ```
 ## 🗂️ 3. Cấu trúc thư mục dự án
+```
 school-giftshop/
 │
 ├── src/main/java/
@@ -103,6 +104,7 @@ school-giftshop/
 ├── createDB.sql          # Script tạo cơ sở dữ liệu
 ├── queryDB.sql           # Script thêm dữ liệu mẫu
 └── pom.xml               # File cấu hình Maven
+```
 ## ⚙️ 4. Build và Deploy
 
 ### Cách build dự án
